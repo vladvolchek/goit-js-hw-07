@@ -14,4 +14,4 @@ document.addEventListener('DOMContentLoaded', function () {
       captions: true,
       captionDelay: 250,
     });
-  });
+  
